@@ -1,3 +1,0 @@
-Git is a vision control system.
-Git is test file.
-
